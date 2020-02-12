@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 28, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 107.831 s <<< FAILURE! - in TestSuite
+f(com.testing.testng.dataDriven)  Time elapsed: 11.382 s  <<< FAILURE!
+java.lang.AssertionError: expected [pass] but found [fail]
+	at com.testing.testng.dataDriven.f(dataDriven.java:42)
+
+f(com.testing.testng.dataDriven)  Time elapsed: 11.034 s  <<< FAILURE!
+java.lang.AssertionError: expected [pass] but found [fail]
+	at com.testing.testng.dataDriven.f(dataDriven.java:42)
+
+f(com.testing.testng.dataDriven)  Time elapsed: 11.166 s  <<< FAILURE!
+java.lang.AssertionError: expected [pass] but found [fail]
+	at com.testing.testng.dataDriven.f(dataDriven.java:42)
+

@@ -1,0 +1,10 @@
+com\testing\testng\NewTest.class
+com\testing\testng\dataproviderTest.class
+com\testing\testng\excelTest.class
+com\testing\testng\LoginData.class
+com\testing\testng\LoginTest.class
+com\testing\testng\paramTest.class
+com\testing\testng\dataDriven.class
+com\testing\testng\TestHier.class
+com\testing\testng\CasesTest.class
+com\testing\testng\ParamCases.class
